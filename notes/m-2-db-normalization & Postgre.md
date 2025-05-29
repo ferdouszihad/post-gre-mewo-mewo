@@ -31,3 +31,23 @@ YOu have to learn normalization from outer resources . Instructor failed to expl
 
 - How to create Junction Table
 - How to distribute table into subtable and solve many to many relation
+
+## 6-8 PostGre Installation
+
+- What is SQL
+- What is PostGreSQL
+- Why PostGreSQL
+- Installation
+
+## 6-9 PostGre Terminals
+
+- select version(); // SHow Current Version
+- \l //Show list of Databases
+- \c `db_name` // Connect with a database
+- \d // To show data on a database
+- \dn // to schema in a table
+- create Table `T_name`(`colName` `type`) // To create Table
+- \dt // only show tables
+- \d+ // show datas in a details format
+- \conninfo //connection info
+- \q //quit
